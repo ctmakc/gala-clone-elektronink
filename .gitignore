@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+original_site
+server/node_modules
+server/dist
